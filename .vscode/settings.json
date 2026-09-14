@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "*.js": "javascript",
+    "*.py": "python",
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "SwapWithoutUSingThirdVariable.C": "cpp",
+    "Area.C": "cpp"
+  }
+}
