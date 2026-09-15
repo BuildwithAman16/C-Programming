@@ -7,6 +7,9 @@
     "SwapWithoutUSingThirdVariable.C": "cpp",
     "Area.C": "cpp",
     "positiveOrNegative.C": "cpp",
-    "EvenOrOdd.C": "cpp"
+    "EvenOrOdd.C": "cpp",
+    "greatestAmongthreeNumber.C": "cpp",
+    "StudentGrade.C": "cpp",
+    "vowelOrConsonant.C": "cpp"
   }
 }
