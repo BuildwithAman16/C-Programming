@@ -10,6 +10,26 @@
     "EvenOrOdd.C": "cpp",
     "greatestAmongthreeNumber.C": "cpp",
     "StudentGrade.C": "cpp",
-    "vowelOrConsonant.C": "cpp"
+    "vowelOrConsonant.C": "cpp",
+    "Vote.C": "cpp",
+    "DivisibleBy5.C": "cpp",
+    "valueCheck.C": "cpp",
+    "day.C": "cpp",
+    "1to10.C": "cpp",
+    "10to1.C": "cpp",
+    "1to100.C": "cpp",
+    "even1to100.C": "cpp",
+    "TableOfAnyNumber.C": "cpp",
+    "SumOfEven.C": "cpp",
+    "SumOfodd.C": "cpp",
+    "divisibleBy3.C": "cpp",
+    "Average.C": "cpp",
+    "SumOfDigit.C": "cpp",
+    "reverse.C": "cpp",
+    "palindrome.C": "cpp",
+    "firstDigit.C": "cpp",
+    "LastDigitOfNumber.C": "cpp",
+    "largestNumber.C": "cpp",
+    "SmallestDigit.C": "cpp"
   }
 }
