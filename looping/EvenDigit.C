@@ -1,19 +1,19 @@
 #include <stdio.h>
 int main()
 {
-    int number, remainder, hold=9;
+    int number, remainder,count=0;
     printf("Enter number you wnat to Enter");
     scanf("%d", &number);
     while (number != 0)
     {
         remainder = number % 10;
-        if(remainder<hold)
+        if (remainder%2==0)
         {
-            hold=remainder;
+            count++;
         }
-        number=number/10;
+       number=number/10;
     }
 
-    printf(" Smallest Digit of number :%d", hold);
+    printf(" number Of Even Digit :%d",count);
     return 0;
 }

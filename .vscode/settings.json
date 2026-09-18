@@ -30,6 +30,16 @@
     "firstDigit.C": "cpp",
     "LastDigitOfNumber.C": "cpp",
     "largestNumber.C": "cpp",
-    "SmallestDigit.C": "cpp"
+    "SmallestDigit.C": "cpp",
+    "EvenDigit.C": "cpp",
+    "OddDigit.C": "cpp",
+    "repeatition.C": "cpp",
+    "PrimeNumber.C": "cpp",
+    "PrimeNumber1to10.C": "cpp",
+    "1st.C": "cpp",
+    "3rd.C": "cpp",
+    "4th.C": "cpp",
+    "5th.C": "cpp",
+    "6th.C": "cpp"
   }
 }
