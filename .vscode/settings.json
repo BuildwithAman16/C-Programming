@@ -44,5 +44,6 @@
     "tempCodeRunnerFile.C": "cpp",
     "8th.C": "cpp",
     "9th.C": "cpp"
-  }
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
