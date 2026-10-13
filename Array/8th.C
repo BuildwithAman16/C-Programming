@@ -1,4 +1,4 @@
-// Find the largest element in an array.
+// Find the given  element in an array.
 #include <stdio.h>
 int main()
 {
@@ -21,7 +21,7 @@ int main()
        {
         printf("%d is found at index %d\n",key,i);
        }
-      
+
 
     }
 

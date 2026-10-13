@@ -1,3 +1,4 @@
+//reverse of an array without using another array
 #include <stdio.h>
 
 int main()

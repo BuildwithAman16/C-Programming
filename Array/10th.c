@@ -1,4 +1,4 @@
-// Find the largest element in an array.
+// Copy the array element in an array.
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//Find the second smallest
 #include <stdio.h>
 int main()
 {

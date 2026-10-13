@@ -1,4 +1,4 @@
-// Find the largest element in an array.
+// Find the Odd and Even element in an array.
 #include <stdio.h>
 int main()
 {

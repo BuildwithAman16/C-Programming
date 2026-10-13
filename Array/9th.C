@@ -1,4 +1,4 @@
-// Find the largest element in an array.
+// Find the position of an element in an array.
 #include <stdio.h>
 int main()
 {
